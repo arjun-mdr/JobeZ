@@ -18,13 +18,13 @@ label{
 }
 .header{
   width: 100%;
-  background-color: #000839;
+  background-color: #062743;
 }
 
 .home{
   width: inherit;
   height: 1000px;
-  background-color: #cae8d5;
+  background-color: #b9d7ea;
   text-align: center;
 }
 .main-head{
@@ -44,7 +44,7 @@ label{
   font-weight: bold;
   margin-top: 50px;
 
-  background: #000839;
+  background: #062743;
   color: #fff;
 
 }
