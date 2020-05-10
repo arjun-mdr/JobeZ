@@ -18,13 +18,13 @@ label{
 }
 .header{
   width: 100%;
-  background-color: #000839;
+  background-color: #062743;
 }
 
 .home{
   width: inherit;
   height: 1000px;
-  background-color: #cae8d5;
+  background-color: #b9d7ea;
   text-align: center;
 }
 .signup-nav{
@@ -45,6 +45,10 @@ label{
   color: #fff;
   font-size: 20px;
   font-family: sans-serif;
+}
+.btn{
+  width: 110px;
+  height: 45px;
 }
 .signup-head{
   font-size: 30px;
@@ -82,7 +86,7 @@ label{
   margin-top: 30px;
   font-size: 20px;
 
-  background: #000839;
+  background: #062743;
   color: #fff;
 }
 
